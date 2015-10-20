@@ -1,4 +1,3 @@
-#teste
 def manipulacaoArquivo(arq):
 	arq = open(arq, 'r')
 	texto = arq.readlines()
